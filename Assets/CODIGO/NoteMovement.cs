@@ -22,9 +22,15 @@ public class NoteMovement : MonoBehaviour
             currentZone = "Meh";
         
         // Si llega al final, se destruye sin sumar puntos
-        if(other.CompareTag("DestroyZone"))
+        if (other.CompareTag("DestroyZone")) 
+        {
+            // SI LA NOTA SE PIERDE, EL COMBO VUELVE A CERO
+            if (ScoreManager.instance != null)
+            {
+                ScoreManager.instance.ResetCombo();
+            }
             Destroy(gameObject);
-
+        }
         Debug.Log("Nota entró en zona: " + currentZone);
     }
 
