@@ -23,8 +23,8 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0.52
   scatter:
-    m_OverrideState: 0
-    m_Value: 0.7
+    m_OverrideState: 1
+    m_Value: 0.797
   clamp:
     m_OverrideState: 0
     m_Value: 65472
@@ -90,10 +90,10 @@ MonoBehaviour:
   active: 0
   type:
     m_OverrideState: 1
-    m_Value: 8
+    m_Value: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.051
+    m_Value: 0.791
   response:
     m_OverrideState: 0
     m_Value: 0.8
@@ -115,7 +115,7 @@ MonoBehaviour:
   active: 1
   lift:
     m_OverrideState: 0
-    m_Value: {x: 1, y: 1, z: 1, w: 0.0073747723}
+    m_Value: {x: 1, y: 0.9911609, z: 0.95258623, w: 0.0073747723}
   gamma:
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 1, w: 0.044247795}
@@ -228,10 +228,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
   m_Name: WhiteBalance
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   temperature:
     m_OverrideState: 1
-    m_Value: -2
+    m_Value: -1
   tint:
     m_OverrideState: 0
     m_Value: -1
