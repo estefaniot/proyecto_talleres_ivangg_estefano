@@ -119,8 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 96
-  draggingID: 0
+  controlID: 38
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,8 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 46
-  draggingID: 0
+  controlID: 39
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,8 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 47
-  draggingID: 0
+  controlID: 40
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -192,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 241
     height: 686
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -620,7 +617,7 @@ MonoBehaviour:
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: XR Building Blocks
-      index: 9
+      index: 8
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -635,9 +632,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.39705706, y: -0.9395233, z: -11.929241}
+    m_Target: {x: -8.50623, y: 5.4227757, z: 6.3611145}
     speed: 2
-    m_Value: {x: 0.39705706, y: -0.9395233, z: -11.929241}
+    m_Value: {x: -8.50623, y: 5.4227757, z: 6.3611145}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -683,13 +680,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12591688, y: 0.03182013, z: -0.004061215, w: 0.99159}
+    m_Target: {x: 0.10312559, y: 0.46968204, z: -0.05536677, w: 0.87511915}
     speed: 2
-    m_Value: {x: 0.1259084, y: 0.031817988, z: -0.0040609417, w: 0.99152327}
+    m_Value: {x: 0.104177654, y: 0.47349903, z: -0.05653696, w: 0.87278247}
   m_Size:
-    m_Target: 2.9028013
+    m_Target: 15.330813
     speed: 2
-    m_Value: 2.9028013
+    m_Value: 14.670635
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -751,9 +748,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c2770000
-      m_LastClickedID: 30658
-      m_ExpandedIDs: 82f2fffff8f2ffff2cfbffff2e750000c6750000d67500008e7600009a760000ca7600002c770000ac770000b6770000
+      m_SelectedIDs: 049f0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 88fbfeffcefcfeff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -877,7 +874,6 @@ MonoBehaviour:
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: -1
   m_RenderTexture: {fileID: 0}
-  m_showToolbar: 1
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -923,7 +919,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Gwangju_3D asset/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -931,16 +927,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Gwangju_3D asset/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\estef\Uni\2do\Talleres\VR\proyecto
+  m_LastProjectPath: D:\Escritorio\uni\taller\vr\proyecto version 3\proyecto_talleres_ivangg_estefano
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f87e0000
-    m_LastClickedID: 32504
-    m_ExpandedIDs: 00000000087f0000e8bf000000ca9a3b
+    m_SelectedIDs: fe9e0000
+    m_LastClickedID: 40702
+    m_ExpandedIDs: 0000000094980000be98000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -968,7 +964,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000
+    m_ExpandedIDs: 0000000094980000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
