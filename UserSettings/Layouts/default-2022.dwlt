@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 241
     height: 686
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 397
     height: 1299
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -604,7 +604,7 @@ MonoBehaviour:
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: APV Overlay
-      index: 8
+      index: 9
       layout: 4
       size: {x: 0, y: 0}
       sizeOverriden: 0
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.50623, y: 5.4227757, z: 6.3611145}
+    m_Target: {x: -2.660154, y: 3.082141, z: -10.6649}
     speed: 2
-    m_Value: {x: -8.50623, y: 5.4227757, z: 6.3611145}
+    m_Value: {x: -2.660154, y: 3.082141, z: -10.6649}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -680,13 +680,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.10312559, y: 0.46968204, z: -0.05536677, w: 0.87511915}
+    m_Target: {x: -0.0070397602, y: -0.202027, z: -0.0014673475, w: 0.9794229}
     speed: 2
-    m_Value: {x: 0.104177654, y: 0.47349903, z: -0.05653696, w: 0.87278247}
+    m_Value: {x: -0.007037074, y: -0.2034821, z: -0.0014778053, w: 0.97905236}
   m_Size:
-    m_Target: 15.330813
+    m_Target: 3.6269255
     speed: 2
-    m_Value: 14.670635
+    m_Value: 3.6269255
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -748,9 +748,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 049f0000
+      m_SelectedIDs: 9aa00000
       m_LastClickedID: 0
-      m_ExpandedIDs: 88fbfeffcefcfeff
+      m_ExpandedIDs: 3e04feff6e11feff2812feffbe12feff5413feff1814feffae14feff92b0feff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -929,14 +929,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Gwangju_3D asset/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Escritorio\uni\taller\vr\proyecto version 3\proyecto_talleres_ivangg_estefano
+  m_LastProjectPath: C:\Users\estef\Uni\2do\Talleres\VR\proyecto
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fe9e0000
-    m_LastClickedID: 40702
-    m_ExpandedIDs: 0000000094980000be98000000ca9a3b
+    m_SelectedIDs: 1c080000
+    m_LastClickedID: 2076
+    m_ExpandedIDs: 0000000004060000a0060000c80700001c080000100b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -964,7 +964,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000094980000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1041,9 +1041,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 731
+    y: 759
     width: 2162
-    height: 620
+    height: 592
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
